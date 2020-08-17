@@ -1,0 +1,4 @@
+#Mon Aug 03 17:03:37 SGT 2020
+base.0=D\:\\android-advanced-starter-apps-master\\android-advanced-starter-apps-master\\Scorekeeper_start\\app\\build\\intermediates\\transforms\\dexMerger\\debug\\0
+path.0=classes.dex
+renamed.0=classes.dex
